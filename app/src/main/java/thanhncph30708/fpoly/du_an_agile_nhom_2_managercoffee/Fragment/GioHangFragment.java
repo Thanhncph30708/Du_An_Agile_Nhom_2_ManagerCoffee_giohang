@@ -52,7 +52,7 @@ import thanhncph30708.fpoly.du_an_agile_nhom_2_managercoffee.R;
 public class GioHangFragment extends Fragment {
 
 
-    ListView lv;
+//    ListView lv;
     static TextView tvTongTien;
     Button btnTaoDonHang;
     CheckBox chkThanhToan;
